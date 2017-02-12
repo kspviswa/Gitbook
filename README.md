@@ -1,3 +1,4 @@
-# My Awesome Book
+# Preface
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+SDN \( Software Defined Networking \) defines a new paradigm shift in networking world. In this SDN eco-system, SDN controllers becomes heart & nerve of the system.
+
