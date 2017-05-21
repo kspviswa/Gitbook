@@ -6,3 +6,5 @@ A newbie in this ecosystem would require a quick jump-start recipe in-order to g
 
 Main purpose behind writing this book to make the readers comfortable in using ONOS controller in few simple steps. While there is a [ONOS Wiki page](/wiki.onosproject.org) , this book is aiming to provide a good story-telling experience in-order to get started.
 
+![](/assets/cover.jpeg)
+
